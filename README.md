@@ -7,4 +7,4 @@ This is a demo full-stack web application for representation of a company blog/r
 ### Home page is show all blog post as card with paginated.
 ### User can register himself with email, username, password and confirm password.(password will be hash 128 bit and store in to DataBase)
 ### User can login with email ID and exact password. Once user logged in can get scope to create blogpost/review.
-### Only User is authorize to modify user name and his created blog post only. can not alter other user's blog, but can read other's blog.
+### Only User is authorize to modify user name and his own blog post only. can not alter other user's blog post, but can read other's blog post.
