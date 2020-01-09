@@ -2,7 +2,7 @@
 This is a demo full-stack web application for representation of a company blog/review.
 ## Used Technology : 
 ### Backend - Python, SQLight database (used as Relational Db), SQL Alchemy ORM used to performe CRUD, Flask Frame work. etc
-### Frontend - HTML, Java Script, Bootstrap as User Interface.
+### Frontend - HTML, Java Script, Bootstrap as User Interface..
 ## Main Feature:
 ### Home page is show all blog post as card with paginated.
 ### User can register himself with email, username, password and confirm password.(password will be hash 128 bit and store in to DataBase)
